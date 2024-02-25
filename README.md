@@ -1,1 +1,1 @@
-# LazyGhost
+# Wavy
