@@ -247,6 +247,19 @@ body.active{
 
 
 /* ADAPTIVE */
+@media (max-width: 2560px) {
+    .phone.active{
+        top: 100%;
+        left: 50%;
+    }
+}
+@media (max-width: 1920px) {
+    .phone.active{
+        top: 50%;
+        left: 24%;
+    }
+}
+
 @media (max-width: 1440px) {
     .login-form, .register-form{
         width: 50%;
